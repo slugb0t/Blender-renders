@@ -2,4 +2,4 @@
 Renders created with Blender
 
 
-https://github.com/slugb0t/Blender-renders/master/whitechain.png
+https://github.com/slugb0t/Blender-renders/master/whitechain.png?raw=true
