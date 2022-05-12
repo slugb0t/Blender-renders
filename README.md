@@ -2,5 +2,5 @@
 Renders created with Blender
 
 
-![uhh](./whitechain.png)
+![uhh](./whiteCHAIN.png)
 
