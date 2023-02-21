@@ -1,5 +1,5 @@
 # Blender-renders
-Renders created with Blender
+Renders created with Blender. Animations are compressed to 25mb at most to to store on Github
 
 ![dark-abyss](./darkTunnelAbyss.png)
 
